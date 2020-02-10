@@ -1,1 +1,7 @@
+Step-1:: add h2 dependency in pom.xml
 
+Step-2:: add four h2 related properties in properties file.
+
+Step-3:: h2 url is same as h2-console url .
+
+Step-4:: if it is not working try with "mady" password in h2-console.
